@@ -15,5 +15,5 @@ opencv (cv2):  4.8.0
 tensorflow-gpu:  True  
 Python 3.8.18  
 
-![][https://github.com/adizer01110/AI_tensorflow_CNN_car/blob/main/01_combined_loss-checkpoint.png]
+![][/01_combined_loss-checkpoint.png]
 
