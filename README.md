@@ -16,5 +16,7 @@ tensorflow-gpu:  True
 Python 3.8.18  
 
 
-![テキスト](/explanation_images/01_combined_loss-checkpoint.png)
+![エラー](/explanation_images/01_combined_loss-checkpoint.png)
 
+
+<img src="/explanation_images/01_combined_loss-checkpoint.png" alt="代替テキスト" width="幅のピクセル数" height="高さのピクセル数">
