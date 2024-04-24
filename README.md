@@ -15,5 +15,7 @@ opencv (cv2):  4.8.0
 tensorflow-gpu:  True  
 Python 3.8.18  
 
-![][/01_combined_loss-checkpoint.png]
+![][/]
+
+![代替テキスト](/01_combined_loss-checkpoint.png)
 
