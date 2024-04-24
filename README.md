@@ -24,5 +24,6 @@ Python 3.8.18
 縦軸は目標値との損失, 横軸epochは計算回数を示しています.
 
 <iframe width="560" height="315" src="https://youtu.be/Fy9-8haileU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/l0QRkJzn-_Y?si=4zP8V-cL7-jHLwfH" frameborder="0" allowfullscreen></iframe>
 
 
