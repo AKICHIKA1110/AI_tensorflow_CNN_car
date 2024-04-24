@@ -15,3 +15,4 @@ opencv (cv2):  4.8.0
 tensorflow-gpu:  True  
 Python 3.8.18  
 
+![GitHubのロゴ](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
