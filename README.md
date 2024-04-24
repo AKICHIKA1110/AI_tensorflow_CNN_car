@@ -16,5 +16,5 @@ tensorflow-gpu:  True
 Python 3.8.18  
 
 
-![代替テキスト](/01_combined_loss-checkpoint.png)
+![代替テキスト](/explanation_images/01_combined_loss-checkpoint.png)
 
