@@ -20,5 +20,5 @@ Python 3.8.18
 <img src="/explanation_images/01_combined_loss-checkpoint.png" 
   alt="代替テキスト"
   width="640" 
-  height="480">
+  height="480">  
 縦軸は目標値との損失, 横軸epochは計算回数を示しています.
