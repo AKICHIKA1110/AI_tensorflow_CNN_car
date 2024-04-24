@@ -6,12 +6,12 @@ kerasとTensorFlow(2.5.0)を用いたFunctinalAPIを用いたニューラルネ�
 
 筆者の実行環境を以下に示します.
 
-tensorflow:  2.9.2
-numpy:  1.24.3
-pandas:  1.5.3
-sklearn (for train_test_split):  1.2.2
-matplotlib (for pyplot):  3.7.1
-opencv (cv2):  4.8.0
-tensorflow-gpu:  True
-Python 3.8.18
+tensorflow:  2.9.2　　
+numpy:  1.24.3　　
+pandas:  1.5.3　　
+sklearn (for train_test_split):  1.2.2　　
+matplotlib (for pyplot):  3.7.1　　
+opencv (cv2):  4.8.0　　
+tensorflow-gpu:  True　　
+Python 3.8.18　　
 
