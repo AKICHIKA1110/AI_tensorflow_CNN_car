@@ -14,7 +14,10 @@ matplotlib (for pyplot):  3.7.1
 opencv (cv2):  4.8.0  
 tensorflow-gpu:  True  
 Python 3.8.18  
-
+Window11側の環境  
+JuypterLab  
+CUDA  
+cuDNN  
 
 これは実際に多層のニューラルネットワークを訓練した時の経過をグラフ化したものです.
 <img src="/explanation_images/01_combined_loss-checkpoint.png" 
