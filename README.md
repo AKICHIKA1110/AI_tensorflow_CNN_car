@@ -29,7 +29,7 @@
 - NumPy
 - Matplotlib
 
-これらのライブラリは、以下のコマンドでインストールできます。
+これらのライブラリは, 以下のコマンドでインストールできます.
 
 ```sh
 pip install tensorflow keras opencv-python numpy matplotlib
