@@ -19,15 +19,18 @@
 - `kogakuin_model.h5`:ネットワークの構造とパラメータを含んだ学習済みモデルのファイル
 
 
-## 必要な依存関係
-
-このプロジェクトを実行するために必要なPythonライブラリを以下に示します.
-
+## ライブラリの依存関係
+###　学習を行うためのノード(Windows, Google colabo)
 - TensorFlow
 - Keras
 - OpenCV
 - NumPy
 - Matplotlib
+### Raspberry Pi 3 Model B+
+- TensorFlow
+- Keras
+- OpenCV
+- Numpy
 
 これらのライブラリは, 以下のコマンドでインストールできます.
 
