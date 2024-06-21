@@ -18,6 +18,13 @@
 - `kogakuin_model.ipynb`:モデルの読み込みを行う実行ファイル
 - `kogakuin_model.h5`:ネットワークの構造とパラメータを含んだ学習済みモデルのファイル
 
+## 詳細
+dataセットとなるファイルは4つ存在する. 
+`1_image_data`:  
+`2_image_data`:  
+`3_image_data`:  
+`4_image_data`:  
+この4つファイルの中に存在する`list2.txt`ファイルには正解ラベルと画像データの名前が保存されている.
 
 ## ライブラリの依存関係
 ###　学習を行うためのノード(Windows, Google colabo)
