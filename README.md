@@ -27,7 +27,7 @@ dataセットとなるファイルは4つ存在する.
 この4つファイルの中に存在する`list2.txt`ファイルには正解ラベルと画像データの名前が保存されている.
 
 ## ライブラリの依存関係
-###　学習を行うためのノード(Windows, Google colabo)
+### 学習を行うためのノード(Windows, Google colabo)
 - TensorFlow
 - Keras
 - OpenCV
