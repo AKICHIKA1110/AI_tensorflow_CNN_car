@@ -19,7 +19,7 @@
 - `kogakuin_model.h5`:ネットワークの構造とパラメータを含んだ学習済みモデルのファイル
 
 ## 詳細
-dataセットとなるファイルは4つ存在する. 
+dataセットとなるファイルは4つ存在する.   
 `1_image_data`:  
 `2_image_data`:  
 `3_image_data`:  
